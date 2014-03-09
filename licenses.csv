@@ -1,3 +1,4 @@
+Binary package name,Reference SRPM,Blessed license label,Spec file license tag,Comments
 zziplib,zziplib-0.13.62-3.fc21.src.rpm,(LGPL-2.0+ or MPL-1.1),LGPLv2+ or MPLv1.1,MPL license file contains NPL 1.1 amendment similar to SPDX NPL-1.1 but in reverse order.
 zsh,zsh-5.0.2-8.fc21.src.rpm,Zsh,MIT,See nonstandard-licenses. MIT-family. One source file states it is derived from regexp library (Regexp license [see nonstandard-licenses]). One source file includes a portion under BSD-3-Clause.
 
