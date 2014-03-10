@@ -1,4 +1,5 @@
 Binary package name,Reference SRPM,Blessed license label,Spec file license tag,Comments
+zip,zip-3.0-9.fc21.src.rpm,Info-ZIP,BSD,See nonstandard-licenses. BSD-family (arguably GPL-incompatible). README file FAQ indicates non-FLOSS restrictions inconsistent with current Info-ZIZIP license. TODO: report bug upstream.
 zlib,zlib-1.2.8-4.fc21.src.rpm,Zlib,zlib and Boost,I believe conjunctive inclusion of Boost is incorrect as I do not believe Boost-license files are compiled into the binary.
 zziplib,zziplib-0.13.62-3.fc21.src.rpm,(LGPL-2.0+ or MPL-1.1),LGPLv2+ or MPLv1.1,MPL license file contains NPL 1.1 amendment similar to SPDX NPL-1.1 but in reverse order.
 zsh,zsh-5.0.2-8.fc21.src.rpm,Zsh,MIT,See nonstandard-licenses. MIT-family. One source file states it is derived from regexp library (Regexp license [see nonstandard-licenses]). One source file includes a portion under BSD-3-Clause.
