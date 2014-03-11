@@ -1,4 +1,5 @@
 Binary package name,Reference SRPM,Blessed license label,Spec file license tag,Comments
+yum-utils,yum-utils-1.1.31-21.fc21.src.rpm,GPL-2.0+,GPLv2+,
 zenity,zenity-3.8.0-3.fc21.src.rpm,(LGPL-2.0+ and GFDL-1.1+),LGPLv2+,Content installed in /usr/share/help is GFDL.
 zip,zip-3.0-9.fc21.src.rpm,Info-ZIP,BSD,See nonstandard-licenses. BSD-family (arguably GPL-incompatible). README file FAQ indicates non-FLOSS restrictions inconsistent with current Info-ZIZIP license. TODO: report bug upstream.
 zlib,zlib-1.2.8-4.fc21.src.rpm,Zlib,zlib and Boost,I believe conjunctive inclusion of Boost is incorrect (Boost-licensed files not built).
